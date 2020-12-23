@@ -37,11 +37,7 @@ public class game
 	public void setJ(int Yaxis) 
 	{
 		this.Yaxis = Yaxis;
-	}
-
-
-	public void setXaxis(int i) {
-		// TODO Auto-generated method stub
+	
 		
 	}
 	
